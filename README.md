@@ -1,2 +1,2 @@
 # xianghao-kuang
-the road of god
+this is xiangmusi`s program library 
